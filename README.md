@@ -1,2 +1,2 @@
-# devops-experience
-Palestra no DevOps Experience
+# Lab Exp - DevOps Cloud
+Lab Exp DevOps Cloud - Aula 01
